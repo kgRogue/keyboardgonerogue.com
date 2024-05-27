@@ -1,4 +1,0 @@
-baseURL = 'https://keyboardgonerogue.com/'
-languageCode = 'en-us'
-title = 'Keyboard Gone Rogue'
-theme = 'hugo-theme-stack'
