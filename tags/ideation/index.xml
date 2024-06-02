@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ideation on Keyboard Gone Rogue</title>
+    <link>https://keyboardgonerogue.com/tags/ideation/</link>
+    <description>Recent content in Ideation on Keyboard Gone Rogue</description>
+    <generator>Hugo -- 0.126.2</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 02 Jun 2024 14:10:16 +0530</lastBuildDate>
+    <atom:link href="https://keyboardgonerogue.com/tags/ideation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Project</title>
+      <link>https://keyboardgonerogue.com/posts/first-project/</link>
+      <pubDate>Sun, 02 Jun 2024 14:10:16 +0530</pubDate>
+      <guid>https://keyboardgonerogue.com/posts/first-project/</guid>
+      <description>URL Shortner</description>
+    </item>
+  </channel>
+</rss>

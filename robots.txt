@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://keyboardgonerogue.com/sitemap.xml

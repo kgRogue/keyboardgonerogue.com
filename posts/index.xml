@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Keyboard Gone Rogue</title>
-    <link>https://keyboardgonerogue.com/</link>
-    <description>Recent content on Keyboard Gone Rogue</description>
+    <title>Posts on Keyboard Gone Rogue</title>
+    <link>https://keyboardgonerogue.com/posts/</link>
+    <description>Recent content in Posts on Keyboard Gone Rogue</description>
     <generator>Hugo -- 0.126.2</generator>
     <language>en</language>
     <lastBuildDate>Sun, 02 Jun 2024 14:10:50 +0530</lastBuildDate>
-    <atom:link href="https://keyboardgonerogue.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://keyboardgonerogue.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Build</title>
       <link>https://keyboardgonerogue.com/posts/rabbit-holes/how-to-build/</link>

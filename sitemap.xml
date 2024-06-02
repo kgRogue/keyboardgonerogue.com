@@ -2,10 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://keyboardgonerogue.com/categories/</loc>
+    <loc>https://keyboardgonerogue.com/tags/build/</loc>
+    <lastmod>2024-06-02T14:10:50+05:30</lastmod>
+  </url><url>
+    <loc>https://keyboardgonerogue.com/posts/rabbit-holes/how-to-build/</loc>
+    <lastmod>2024-06-02T14:10:50+05:30</lastmod>
   </url><url>
     <loc>https://keyboardgonerogue.com/</loc>
+    <lastmod>2024-06-02T14:10:50+05:30</lastmod>
+  </url><url>
+    <loc>https://keyboardgonerogue.com/posts/</loc>
+    <lastmod>2024-06-02T14:10:50+05:30</lastmod>
+  </url><url>
+    <loc>https://keyboardgonerogue.com/tags/rabbit-hole/</loc>
+    <lastmod>2024-06-02T14:10:50+05:30</lastmod>
   </url><url>
     <loc>https://keyboardgonerogue.com/tags/</loc>
+    <lastmod>2024-06-02T14:10:50+05:30</lastmod>
+  </url><url>
+    <loc>https://keyboardgonerogue.com/posts/first-project/</loc>
+    <lastmod>2024-06-02T14:10:16+05:30</lastmod>
+  </url><url>
+    <loc>https://keyboardgonerogue.com/tags/ideation/</loc>
+    <lastmod>2024-06-02T14:10:16+05:30</lastmod>
+  </url><url>
+    <loc>https://keyboardgonerogue.com/posts/about-me/</loc>
+    <lastmod>2024-06-02T14:08:42+05:30</lastmod>
+  </url><url>
+    <loc>https://keyboardgonerogue.com/tags/intro/</loc>
+    <lastmod>2024-06-02T14:08:42+05:30</lastmod>
+  </url><url>
+    <loc>https://keyboardgonerogue.com/archives/</loc>
+  </url><url>
+    <loc>https://keyboardgonerogue.com/categories/</loc>
+  </url><url>
+    <loc>https://keyboardgonerogue.com/search/</loc>
+  </url><url>
+    <loc>https://keyboardgonerogue.com/series/</loc>
   </url>
 </urlset>
